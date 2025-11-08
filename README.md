@@ -20,7 +20,7 @@
 
   <section class="features">
     <div class="card">
-      <img src="images/plot1.jpg" alt="Plot in Jaipur">
+      <img src="plot1.jpg" alt="Plot in Jaipur">
       <h3>Prime Location Plots</h3>
       <p>Main Tonk Road, near Chokhi Dhani Resort</p>
     </div>
