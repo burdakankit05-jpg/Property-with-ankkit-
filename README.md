@@ -25,7 +25,7 @@
       <p>Main Tonk Road, near Chokhi Dhani Resort</p>
     </div>
     <div class="card">
-      <img src="image/plot1.jpg" alt="Villa">
+      <img src="ImgTools.co-renamed (1).zip" alt="Villa">
       <h3>Luxury Villas</h3>
       <p>Premium villas with modern amenities</p>
     </div>
