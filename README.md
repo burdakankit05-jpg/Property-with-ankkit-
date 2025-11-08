@@ -42,3 +42,4 @@
   </footer>
 </body>
 </html>
+<img src="images/plot1.jpg" alt="Plot in Jaipur">
